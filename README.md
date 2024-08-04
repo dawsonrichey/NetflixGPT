@@ -109,7 +109,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Made the Browse page Tailwind CSS
 - use Popular Movies section
 - use Top Rated Movies section
-- GPT Search Feature
+- GPT Search Page
+- GPT Search Bar
+- Multiple Language Support
 
 
 # Features 
