@@ -153,3 +153,11 @@ https://netflixgpt-97d3e.web.app/
 [https://developer.themoviedb.org/reference/movie-now-playing-list](https://developer.themoviedb.org/reference/movie-now-playing-list)
 
 [https://developer.themoviedb.org/reference/movie-videos](https://developer.themoviedb.org/reference/movie-videos)
+
+
+https://www.npmjs.com/package/openai
+https://www.npmjs.com/package/openai/v/4.0.1
+
+npm install --save openai
+npm install --save openai@4.0.1
+
