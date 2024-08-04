@@ -102,7 +102,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Update Store with Trailer Video Data
 - Embed Trailer Video and make it play in a loop on mute
 - Tailwind CSS to style the player
-- Built SeconndaryComponent 
+- Built Secondary Component 
+- Built Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page Tailwind CSS
+- use Popular Movies section
+- use Top Rated Movies section
 
 
 # Features 
