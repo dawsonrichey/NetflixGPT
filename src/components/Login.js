@@ -82,7 +82,6 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          className="h-screen object-cover"
           src={BG_URL}
           alt="background"
         />
