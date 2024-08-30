@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/utils/constants.js
-/src/utils/firebase.js
+# /src/utils/constants.js
+# /src/utils/firebase.js
 
 # testing
 /coverage
@@ -26,6 +26,7 @@ yarn-error.log*
 
 /src/utils/firebase.js
 
-.firebaserc
-firebase.json
-src/utils/firebase.js
+# .firebaserc
+# firebase.json
+# src/utils/firebase.js
+.env
