@@ -112,6 +112,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - GPT Search Page
 - GPT Search Bar
 - Multiple Language Support
+- Get OPENAI API Key
+- GPT Search API
+- fetched gpt search results for 8 similar movies
+- Made a single component for GptMovieSuggestions
+- Made a single component for GptSearchBar
+- Made a single component for GptSearch
+- GPT Search Screen UI
+- Added .env file
+- Memorized the GptMovieSuggestions Component
 
 
 # Features 
