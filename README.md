@@ -170,3 +170,6 @@ https://www.npmjs.com/package/openai/v/4.0.1
 npm install --save openai
 npm install --save openai@4.0.1
 
+
+
+https://stackoverflow.com/questions/62663451/treating-warnings-as-errors-because-process-env-ci-true-failed-to-compile
